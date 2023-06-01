@@ -2,6 +2,7 @@
   "expo": {
     "name": "spacetime_mobile",
     "slug": "spacetime_mobile",
+    "scheme": "spacetime",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
